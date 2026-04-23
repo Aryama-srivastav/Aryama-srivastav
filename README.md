@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Bachelor of Technology Major in Computer Science at DDU University.<br><br>🔭 I’m currently working on AI/ML projects, full-stack development, and building impactful tech solutions<br><br>👯 I’m looking to collaborate and contribute in GSOC.<br><br>🌱 I’m currently learning Data Structures & Algorithms from Stanford Online.<br><br>💬 Ask me about Python, Web Development, Android development, AI/ML, Git/GitHub, and building projects from scratch.<br><br>⚡ Fun fact: I built and published websites, helped digitize business, and co-authored books before starting college.<br>
+🎓 Bachelor of Technology Major in Computer Science at DDU University.<br><br>Global rank 451 in TSC Codevita'13<br><br>🔭 I’m currently working on AI/ML projects, full-stack development, and building impactful tech solutions<br><br>👯 I’m looking to collaborate and contribute in GSOC.<br><br>🌱 I’m currently learning Data Structures & Algorithms from Stanford Online.<br><br>💬 Ask me about Python, Web Development, Android development, AI/ML, Git/GitHub, and building projects from scratch.<br><br>⚡ Fun fact: I built and published websites, helped digitize business, and co-authored books before starting college.<br>
 
 
 ## 🌐 Socials:
@@ -18,10 +18,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryama-srivastav&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Aryama-srivastav&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
